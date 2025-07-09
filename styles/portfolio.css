@@ -137,3 +137,31 @@ main section {
 .skills > .section-description {
     padding: 0 100px;
 }
+/* resume styles */
+.resume>.section-title {
+    text-align: center;
+}
+.resume-container {
+    display: flex;
+    gap: 24px;
+}
+.experience-description, .experience-sub-title {
+    color: #757575;
+}
+.experience-sub-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+.experience-title {
+    color: #474747;
+    font-size: 25px;
+}
+.resume-column-title {
+    font-size: 30px;
+}
+.resume hr {
+    margin: 30px 10px;
+}
+.resume-download-cv {
+    margin-top: 50px;
+}
